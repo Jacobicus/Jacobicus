@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob
-- 👀 I’m interested in Cybersecurity...
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning  Red Hat Linux
 
 
