@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Jacob
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning  Red Hat Linux
+<h1>Hi, I'm Jacob!
+<a href="https://www.linkedin.com/in/jake-diaz/">Cybersecurity Professional</a>
 
+<h2>👨‍💻 Certifications:</h2>
 
-<!---
-Jacobicus/Jacobicus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+COMPTIA SECURITY+ (2024)
+
+RED HAT LINUX CERTIFIED SYSTEM ADMINISTRATOR (IN PROGRESS)
