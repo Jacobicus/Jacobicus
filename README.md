@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jacob!
-<a href="https://www.linkedin.com/in/jake-diaz/">Cybersecurity Professional</a>
+<a href="https://www.linkedin.com/in/jake-diaz/">IT Professional!</a>
 
 <h2>👨‍💻 Certifications:</h2>
 
