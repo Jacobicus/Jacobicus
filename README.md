@@ -4,5 +4,3 @@
 <h2>👨‍💻 Certifications:</h2>
 
 COMPTIA SECURITY+ (2024)
-
-Cisco Certified Network Administrator (CCNA) Expected 12/2024
